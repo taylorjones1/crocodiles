@@ -103,3 +103,8 @@ body {
     text-align: center;
 }
 footer{text-align: center;}
+
+.dark{
+    background: #344e41;
+    padding: 2em 0;
+}
