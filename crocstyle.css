@@ -141,3 +141,7 @@ nav :hover{
     color: #a3b18a;
     transition: all 0.3s ease-in-out;
 }
+
+li{
+    list-style: none;
+}
