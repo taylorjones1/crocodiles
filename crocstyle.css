@@ -108,3 +108,36 @@ footer{text-align: center;}
     background: #344e41;
     padding: 2em 0;
 }
+
+nav{
+    position:fixed;
+    top:0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background: #344e41;
+    padding: 2.3em 0;
+    font-size: 0.80rem;
+
+}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav ul li{
+    display: inline;
+    margin: 20px;
+}
+
+nav a {
+    color: #dad7cd;
+}
+
+nav :hover{
+    border-bottom: none;
+    color: #a3b18a;
+    transition: all 0.3s ease-in-out;
+}
