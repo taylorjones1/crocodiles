@@ -127,3 +127,16 @@ section, header{
     background: #344e41;
     padding: 2em 0;
 }
+
+header h2{
+    font-size: 2rem;
+    font-style: italic;
+    margin-top: -0.5rem;
+    margin-bottom: 2rem;
+    text-indent: 1.5rem;
+}
+header p{
+    padding-bottom: 6rem;
+    font-size: 1.5rem;
+    color: #f9f9f9;
+}
