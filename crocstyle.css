@@ -140,3 +140,55 @@ header p{
     font-size: 1.5rem;
     color: #f9f9f9;
 }
+
+.headercontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.headertext {
+    flex: 60%;
+    margin: 0 3em 0 0;
+}
+
+.morningscontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.morningstext {
+    flex: 60%;
+    margin: 0 3em 0 0;
+}
+
+.marketcontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.markettext {
+    flex: 60%;
+    margin: 0 3em 0 0;
+}
+
+.streetcontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.streettext {
+    flex: 60%;
+    margin: 0 3em 0 0;
+}
