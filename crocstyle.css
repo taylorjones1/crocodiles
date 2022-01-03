@@ -143,6 +143,7 @@ section{
 .dark{
     background: #344e41;
     padding: 2em 0;
+    width: 100%;
 }
 
 header h2{
