@@ -49,6 +49,14 @@ h4 {
 
 }
 
+section{
+    width: 80%;
+    max-width: 700px;
+    margin: auto;
+    padding: 0;
+}
+}
+
 
 .subs {
     font-size: 1.55rem;
