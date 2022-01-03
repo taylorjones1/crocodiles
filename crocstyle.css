@@ -72,6 +72,7 @@ body {
 footer {
     text-align: center;
     color: #dad7cd;
+    width: 100%;
 }
 
 .dark{
@@ -199,3 +200,4 @@ header p{
     color:#dad7cd;
     align-self:auto;
 }
+
