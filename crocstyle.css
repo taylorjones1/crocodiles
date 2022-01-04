@@ -183,6 +183,12 @@ header h2{
     margin: 0 3em 0 0;
 }
 
+.headerimg{
+    width: 70%;
+    align-items: center;
+    flex: 35%;
+}
+
 .morningscontainer {
     display: flex;
     flex-direction: row;
