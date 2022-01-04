@@ -200,6 +200,12 @@ header h2{
     margin: 0 3em 0 0;
 }
 
+.morningsimg {
+    width: 70%;
+    align-items: center;
+    flex: 35%;
+}
+
 .marketcontainer {
     display: flex;
     flex-direction: row;
