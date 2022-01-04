@@ -189,7 +189,7 @@ header h2{
 
 .morningscontainer {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
     width: 100%;
     align-items: center;
@@ -227,7 +227,7 @@ header h2{
 
 .streetcontainer {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
     width: 100%;
     align-items: center;
