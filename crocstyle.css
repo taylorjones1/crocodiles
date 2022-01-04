@@ -232,6 +232,12 @@ header h2{
     margin: 0 3em 0 0;
 }
 
+.streetimg{
+    width: 70%;
+    align-items: center;
+    flex: 35%;
+}
+
 .connections {
     list-style: none;
     display: inline-flex;
