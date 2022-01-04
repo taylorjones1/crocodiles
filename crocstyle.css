@@ -171,9 +171,9 @@ header h2{
 
 .headercontainer {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-self: flex-start;
-    text-align: left;
+    text-align: center;
 }
 
 .headertext {
@@ -182,9 +182,9 @@ header h2{
 }
 
 .headerimg{
-    width: 80%;
+    width: 50%;
     align-items: center;
-    flex: 50%;
+    flex: 15%;
 }
 
 .morningscontainer {
