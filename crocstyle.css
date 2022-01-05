@@ -270,3 +270,25 @@ blockquote {
     padding-right: .05em;
     line-height: .5;
     color: #8dab7f;}
+
+
+    @media only screen and (max-width: 900px) {
+        .gridimage {
+          display: grid;
+          grid-gap: 20px;
+          grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+          padding-bottom: 2em;}
+
+          h1 {
+            font-size: 4.5rem
+        }
+
+@media only screen and (max-width: 650px) {
+
+h1 {
+    font-size: 3rem
+}
+
+header h2 {
+    font-size: 1.5rem;
+}
