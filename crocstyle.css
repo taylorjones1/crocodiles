@@ -252,5 +252,11 @@ header h2{
     padding: 1em;
     width: 100%;
     justify-content: center;
+}
 
+blockquote {
+    font-size: 1.414rem;
+    font-style: italic;
+    hanging-punctuation: first;
+    text-indent: -0.5rem
 }
