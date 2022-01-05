@@ -260,3 +260,11 @@ blockquote {
     hanging-punctuation: first;
     text-indent: -0.5rem
 }
+
+.dropcap {
+    font-family: carta-marina, sans-serif;
+    float: left;
+    font-size: 6rem;
+    padding-right: .05em;
+    line-height: .5;
+    color: #8dab7f;}
